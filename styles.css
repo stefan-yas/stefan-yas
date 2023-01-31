@@ -1,0 +1,9 @@
+@media (prefers-color-scheme: dark) {
+        #rect {
+            fill: #212529;
+        }
+
+        #stefan {
+            fill: #DEE2E6;
+        }
+    }
