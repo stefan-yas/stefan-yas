@@ -1,1 +1,1 @@
-![hiimstefan](https://user-images.githubusercontent.com/52251483/215806624-ff87cb37-b6b2-4480-babf-cb8162cb7462.svg)
+![hiimstefan](https://user-images.githubusercontent.com/52251483/215807053-7302a30d-4734-4980-8501-d68ea1a7ed43.svg)
